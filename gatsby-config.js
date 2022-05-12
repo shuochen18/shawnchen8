@@ -36,7 +36,7 @@ if (!spaceId || !accessToken) {
 
 module.exports = {
   siteMetadata: {
-    title: "Gatsby Contentful Starter",
+    title: "Shawn Chen | hey!",
     description: "Official Contentful Gatsby Starter",
   },
   plugins: [
